@@ -1,0 +1,9 @@
+# Core dependencies for DevOps Repository Auditing Agent
+groq>=0.11.0
+python-dotenv>=1.0.0
+PyYAML>=6.0.1
+requests>=2.31.0
+
+# Development, testing, and static analysis tools
+pytest>=8.0.0
+ruff>=0.6.0
